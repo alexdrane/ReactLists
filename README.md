@@ -1,2 +1,0 @@
-# ReactLists
-Created with CodeSandbox
